@@ -5,7 +5,7 @@ Steps for running this application:
 * Install docker and run the following commands once if you are running it for the first time
   ```
   docker pull dugar/flask-sample
-  docker run -d -p 8080:8080 dugar/flask-sample
+  docker run -p 8080:8080 dugar/flask-sample
   ```
 * If you have already run an image you can simply start and stop the container
   ```
